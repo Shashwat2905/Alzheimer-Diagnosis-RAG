@@ -1,1 +1,12 @@
-# Alzheimer-Diagnosis-RAG
+# Alzheimer-Diagnosis-RAG requirements
+pypdf
+langchain
+torch
+accelerate
+bitsandbytes
+ctransformers
+sentence_transformers
+faiss_cpu
+chainlit
+huggingface_hub
+langchain_community
